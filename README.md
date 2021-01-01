@@ -1,4 +1,4 @@
-*This project has been created by following the [Build a Facebook clone with ReactJS](https://www.youtube.com/watch?v=B-kxUMHBxNo) tutorial; I give full credit to the authors of the video for their ideas and the code, I have simply used them to learn.*
+****Acknowledgement:**** *This project has been created by following the [Build a Facebook clone with ReactJS](https://www.youtube.com/watch?v=B-kxUMHBxNo) tutorial; I give full credit to the authors of the video for their ideas and the code, I have simply used them to learn.*
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
